@@ -29,9 +29,9 @@ body{
 }
 
 input,select{
-    height: 4em;
-    width: 22em;
-    margin: 20px 20px;
+/*     height: 4em; */
+/*     width: 22em; */
+/*     margin: 20px 20px; */
     border: 5px solid darkred;
 }
 
