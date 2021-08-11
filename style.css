@@ -43,16 +43,6 @@ button{
     border: 5px solid black;
     border-radius: 20px;
 }
-  
-.lines {
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    height: 100%;
-    margin: auto;
-    width: 90vw;
-}
 
 .line {
     position: absolute;
@@ -129,9 +119,15 @@ button{
         top: 110%;
     }
 } 
+
 img{
     display: block;
     margin-left: auto;
     margin-right: auto;
     margin-top: 50px;
+}
+
+input,select{
+    height: 4em;
+    width: 24em;
 }
